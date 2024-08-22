@@ -1,0 +1,56 @@
+*,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.container-header {
+   
+    justify-content: center;
+    display: flex;
+}
+
+.container-navbar{
+    justify-content: center;
+    list-style-type: none;
+}
+
+.ul-navbar{
+   
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+}
+
+.li-navbar {
+  
+    padding: 5px;
+    margin: 5px;
+    color: white;
+}
+ 
+.container-gambar{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.img-gambar{
+    display: flex;
+    justify-content: center;
+}
+
+.container-info{
+  
+}
+.h2-info{
+    
+    display: flex;
+    justify-content: center;
+}
+
+.h3-info{
+    
+    display: flex;
+    justify-content: center;
+}
